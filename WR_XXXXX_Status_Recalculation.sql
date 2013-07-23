@@ -15,6 +15,7 @@
 --
 -- Keywords: Status Icon, Incorrect Status, Rollup
 --THIS IS AN UPDATE--
+--adding a second line and another commit action--
 --********************************************************************************************************
 declare		@StudyTypeID int,
 			@StudySiteTypeID int,
