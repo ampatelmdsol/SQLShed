@@ -14,6 +14,7 @@
 --'Mark Subjects for Status Recalcluation' script.
 --
 -- Keywords: Status Icon, Incorrect Status, Rollup
+--THIS IS AN UPDATE--
 --********************************************************************************************************
 declare		@StudyTypeID int,
 			@StudySiteTypeID int,
